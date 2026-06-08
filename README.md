@@ -38,6 +38,12 @@ Compares airlines by flight volume, OTP rate, cancellation rate, and average arr
 
 ### 3. Airport Performance & Temporal Trends
 Analyzes airport traffic, best/worst months, best/worst days, peak delay time, and busiest flight time slots.
+## Power BI Dashboard
+
+Due to GitHub file size limitations, the Power BI file is hosted externally.
+
+Download PBIX:
+https://drive.google.com/file/d/1KZRtJLlBYMIiP5I-2bRAW7Z36N1YioqH/view?usp=drive_link
 
 ## Key Insights
 - Late Aircraft Delay is the largest delay contributor.
